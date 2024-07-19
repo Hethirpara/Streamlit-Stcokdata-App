@@ -83,3 +83,5 @@ if ticker:
 st.markdown('<h3 style="text-align: center; margin-top: 20px;">Thank You For Visiting</h3>', unsafe_allow_html=True)
 
 
+
+
